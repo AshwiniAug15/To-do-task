@@ -1,0 +1,118 @@
+/*body {
+  background-image: url(Michael.jpg);
+  background-repeat: no-repeat;
+  background: fixed;
+  background-size: 100% 100%;
+
+}*/
+div{
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+
+h2 {
+  font-size: 70px;
+  text-decoration-line: underline;
+  font-weight: 60px;
+  text-shadow: 0px 0px 10px whitesmoke;
+  color: aqua;
+  text-align: center;
+  padding: 20px;
+
+
+
+}
+
+
+input {
+
+  background-color: white;
+  padding: 10px;
+  font-size: 30px;
+
+  /* box-align: centre;*/
+
+}
+
+span {
+  background-color: rgb(12, 37, 228);
+  padding: 10px;
+  font-size: 30px;
+  inline-size: 10px;
+  /*position: relative;*/
+
+}
+
+.first {
+
+  text-align: center;
+  padding: 20px;
+}
+
+span:hover {
+
+  background-color: rgb(8, 156, 242);
+  inline-size: 15px;
+  box-shadow: 0px 0px 10px skyblue;
+  cursor: pointer;
+
+}
+
+ol li {
+
+  font-size: 28px;
+  background-color: rgb(195, 238, 196);
+  padding-bottom: 25px;
+  padding-top: 6px;
+  padding-left: 20px;
+  width: 500px;
+  height: 20px;
+  text-decoration-color: rgb(3, 120, 5);
+  /*position: relative;*/
+
+  /*copy pasted*/
+}
+
+
+ol li:hover {
+  background-color: rgb(191, 239, 219);
+  box-shadow: 0px 0px 5px whitesmoke;
+  padding-bottom: 25px;
+  padding-top: 6px;
+  padding-left: 20px;
+  width: 500px;
+  height: 20px;
+  text-decoration-color: rgb(3, 120, 5);
+}
+
+ol li.checked {
+
+  background-color: rgb(4, 248, 4);
+  text-decoration: line-through;
+
+}
+
+
+.close {
+
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  background-color: rgb(5, 183, 35);
+
+}
+
+.close:hover {
+  background-color: rgb(44, 246, 8);
+}
+
+/*To make a line over the checked text*/
+
+
+/*copy pasted*/
+/* make the list items unselectable */
